@@ -6,7 +6,7 @@ Este sitio fue creado como parte de una actividad académica para practicar el u
 - 👨‍💻 Programación en equipo
 - 📘 Documentación técnica
 
-- ## 📁 Archivos del proyecto
+## 📁 Archivos del proyecto
 
 - `Metro.py` → Lógica para rutas del metro
 - `vuelos.py` → Algoritmo de rutas de vuelo
