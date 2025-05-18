@@ -23,7 +23,7 @@ Este sitio fue creado como parte de una actividad académica para practicar el u
 - Git / GitHub
 
 ## 📚 Créditos
-Proyecto académico del profesor Jorge Anzaldo Bustos 
+Proyecto académico del profesor Jorge Anzaldo Bustos  
 Realizado por: Equipo completo de XUMIDE Industries
 
 Síguenos en GitHub para ver los avances.
