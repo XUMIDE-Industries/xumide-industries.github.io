@@ -8,9 +8,11 @@ Este sitio fue creado como parte de una actividad académica para practicar el u
 
 ## 📁 Archivos del proyecto
 
-- `Metro.py` → Lógica para rutas del metro
-- `vuelos.py` → Algoritmo de rutas de vuelo
-- `.gitignore` → Ignora archivos innecesarios
+- `Metro.py` → Lógica para rutas del metro  
+- `vuelos.py` → Algoritmo de rutas de vuelo  
+- `Grafo senderismo.py` → Logica de rutas de senderismo  
+- `Grafo referencia.py` → Algoritmo que conecta referencias de varias cosas  
+- `Grafo amigos.py` → Algoritmo que conecta amistades
 
 ## 🚀 Características
 - ✔️ Gestión de proyectos colaborativos
@@ -20,6 +22,9 @@ Este sitio fue creado como parte de una actividad académica para practicar el u
 ## 📁 Estructura del repositorio
 - `Metro.py` – archivo principal de lógica
 - `vuelos.py` – manejo de datos y entradas
+- `Grafo senderismo.py` – manejo de datos y entradas
+- `Grafo referencia.py` – manejo de datos y conexiones
+- `Grafo amigos.py` – manejo de datos y conexiones
 - `README.md` – este archivo :)
 
 ## 🛠️ Tecnologías usadas
@@ -27,6 +32,7 @@ Este sitio fue creado como parte de una actividad académica para practicar el u
 - Tkinter
 - Matplotlib
 - Git / GitHub
+- BFS  
 
 ## 📚 Créditos
 Proyecto académico del profesor Jorge Anzaldo Bustos  
